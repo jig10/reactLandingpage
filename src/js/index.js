@@ -1,7 +1,5 @@
-//import react into the bundle
-import React from "react";
+import React from "react"; //import react into the bundle
 import ReactDOM from "react-dom";
-
 //include bootstrap npm library into the bundle
 import "bootstrap";
 
