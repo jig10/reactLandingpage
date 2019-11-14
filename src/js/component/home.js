@@ -3,6 +3,7 @@ import React from "react";
 //include images into your bundle
 import { Jumbotron } from "./jumbotron";
 import { Card } from "./card";
+import { Footer } from "./footer";
 
 //create your first component
 export function Home() {
@@ -15,6 +16,7 @@ export function Home() {
 				<Card />
 				<Card />
 			</div>
+			<Footer />
 		</div>
 	);
 }
