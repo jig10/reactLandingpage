@@ -11,10 +11,10 @@ export function Home() {
 		<div>
 			<Jumbotron />
 			<div className="d-flex justify-content-around">
-				<Card />
-				<Card />
-				<Card />
-				<Card />
+				<Card title={"Card title"} />
+				<Card title={"Card title"} />
+				<Card title={"Card title"} />
+				<Card title={"Card title"} />
 			</div>
 			<Footer />
 		</div>
